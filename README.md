@@ -1,1 +1,3 @@
-# Web-Ex-JustWeb is just practice for web making.
+# Web-Ex-JustWeb...
+is just practice for web making.
+(Create the Web for the first time!!!)
